@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/acer/deexp1/deexp1.v
+source_file = 1, C:/Users/acer/deexp1/Waveform.vwf
+source_file = 1, C:/Users/acer/deexp1/db/deexp1.cbx.xml
+design_name = deexp1
+instance = comp, \a~I , a, deexp1, 1
+instance = comp, \b~I , b, deexp1, 1
+instance = comp, \comb~0 , comb~0, deexp1, 1
+instance = comp, \comb~1 , comb~1, deexp1, 1
+instance = comp, \comb~2 , comb~2, deexp1, 1
+instance = comp, \c~I , c, deexp1, 1
+instance = comp, \d~I , d, deexp1, 1
+instance = comp, \e~I , e, deexp1, 1
+instance = comp, \x~I , x, deexp1, 1
+instance = comp, \y~I , y, deexp1, 1
+instance = comp, \z~I , z, deexp1, 1
