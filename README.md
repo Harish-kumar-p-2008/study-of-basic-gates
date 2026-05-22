@@ -67,6 +67,7 @@ Y= A⊕B
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: Harish Kumar P
+ 
  RegisterNumber: 212225230095
  ```
 module deexp1(a,b,c,d,e,x,y,z);
@@ -83,11 +84,23 @@ endmodule
  ```
  
 **Logic symbol & Truthtable**
+
+
 ![alt text](380988021-11d6b227-e8ce-425b-9e42-faf0f90ac403.jpg)
+
+
 **RTL realization Output:** 
+
+
 ![alt text](<Screenshot 2026-05-22 090359.png>)
+
+
 **RTL**
+
+
 ![alt text](<Screenshot 2026-05-21 185736.png>)
+
+
 **Result:**
 
 Thus the basic logic gates are studied and the truth tables are verified.
